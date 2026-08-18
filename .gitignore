@@ -1,0 +1,14 @@
+# In deze repo hoort GEEN zip en GEEN broncode.
+#
+# De zips hangen als Release-bijlage onder een tag. Dat is met opzet: bijlagen
+# gaan bij een fork niet mee, dus wie hier op "fork" drukt krijgt alleen
+# versie.json en deze uitleg. Zou de zip als bestand in de repo staan, dan zat
+# hij wel in elke fork.
+#
+# Deze regels staan er om te voorkomen dat dat per ongeluk toch gebeurt.
+*.zip
+*.exe
+*.py
+dist/
+pakket/
+BeeGone/
