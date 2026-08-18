@@ -1,7 +1,7 @@
 {
-    "versie":  "1.2",
+    "versie":  "1.3",
     "datum":  "2026-08-18",
-    "zip":  "https://github.com/RhonatheUnwilling/BeeGone-releases/releases/download/v1.2/BeeGone-v1.2.zip",
-    "sha256":  "2be101208813e6213c3b764ee703b720c905cfb4a2183ef86c4dd103f7d7e48a",
-    "wat":  "Zie de versiegeschiedenis in het venster Over."
+    "zip":  "https://github.com/RhonatheUnwilling/BeeGone-releases/releases/download/v1.3/BeeGone-v1.3.zip",
+    "sha256":  "09746ecfa94c3bd5334ffe88eff1b33a436dad4e384a42d1dea69d270849678f",
+    "wat":  "Delen met collega's. Meld je aan bij Instellingen en je storingen gaan naar een gedeelde lijst; die van je collega's komen binnen. Bij een lopende storing zie je hoeveel mensen er last van hebben, en het nieuwe tabblad Team zet de downtime van een systeem naast de verloren werktijd per persoon. Je blijft op je eigen bestand werken, dus zonder verbinding kun je gewoon doorwerken."
 }
