@@ -1,7 +1,7 @@
 {
-    "versie":  "1.3",
-    "datum":  "2026-08-18",
-    "zip":  "https://github.com/RhonatheUnwilling/BeeGone-releases/releases/download/v1.3/BeeGone-v1.3.zip",
-    "sha256":  "09746ecfa94c3bd5334ffe88eff1b33a436dad4e384a42d1dea69d270849678f",
-    "wat":  "Delen met collega's. Meld je aan bij Instellingen en je storingen gaan naar een gedeelde lijst; die van je collega's komen binnen. Bij een lopende storing zie je hoeveel mensen er last van hebben, en het nieuwe tabblad Team zet de downtime van een systeem naast de verloren werktijd per persoon. Je blijft op je eigen bestand werken, dus zonder verbinding kun je gewoon doorwerken."
+    "versie":  "1.4",
+    "datum":  "2026-08-19",
+    "zip":  "https://github.com/RhonatheUnwilling/BeeGone-releases/releases/download/v1.4/BeeGone-v1.4.zip",
+    "sha256":  "9ca310bb440496bbf96d594562cd08832250d9169185106a60208ecf2735215a",
+    "wat":  "Een klant is nu ook een project: geef de projectcode door en je collega ziet de systemen en storingen van die klant. Het tabblad Team is verdwenen; wie er last van had staat nu bij de klant zelf. Een storing kan gaan over het systeem of over bepaalde gebruikers, en dat laatste telt niet mee als downtime. Een beheerder kan accounts aanmaken en aanpassen, en wie zijn wachtwoord kwijt is stelt er zelf een nieuw in met een code per mail. Verder een fout waardoor verloren werktijd kon doorlopen na afloop van de storing."
 }
